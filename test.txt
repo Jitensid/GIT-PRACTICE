@@ -3,3 +3,6 @@ This is a test..
 Merge conflict kaise create hota hai?
 
 Ashutosh has removed this line XD
+Jiten has added this line
+
+Merge conflict occured Succes!!
